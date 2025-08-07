@@ -1,0 +1,14 @@
+*.log
+*.local
+.idea
+.DS_Store
+.swc
+
+node_modules
+dist
+storybook-static
+package-lock.json
+admiral-ds-table-*.tgz
+bun.lock
+.npmrc
+tsconfig.tsbuildinfo
